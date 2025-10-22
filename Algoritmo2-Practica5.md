@@ -36,3 +36,7 @@ graph TD
     style Z fill:#FFB6C1
     style J1 fill:#87CEEB
     style O2 fill:#87CEEB
+    style Z fill:#FFB6C1
+    style J1 fill:#87CEEB
+
+    style O2 fill:#87CEEB
