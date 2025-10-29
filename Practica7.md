@@ -1,4 +1,4 @@
-```MERMAID
+```mermaid
 graph TD
     Start([Inicio]) --> LoadRef{¿Usar imagen<br/>de referencia?}
     
