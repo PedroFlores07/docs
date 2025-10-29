@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     Start([Inicio]) --> Capture[Capturar Frame de Cámara]
     Capture --> Gray[Convertir a Escala de Grises]
